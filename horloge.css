@@ -5,9 +5,11 @@
     width: 400px;
     border:10px solid #3A5486;
     background:url(http://www.developpez.net/template/images/logo.png) no-repeat scroll center 25% #FFFFFF;
+/* Avoir le logo via ce site */
     box-shadow: 0 0 40px #8080A0, 0 0 50px 10px #CCCCCC inset;
 }
 /*-------------------------------------------*/
+/* Positionner la seconde */
 #seconde{
     position: absolute;
     left: 198px;
@@ -16,6 +18,7 @@
     border: 2px solid rgba( 110,150,180,0.8);
     border-radius: 50%;
 }
+/* Positionner la minute */
 #minute{
     position: absolute;
     left: 196px;
@@ -24,6 +27,7 @@
     border: 4px solid rgba( 80,150,200,0.8);
     border-radius: 50%;
 }
+/* Positionner l'heure */
 #heure{
     position: absolute;
     left: 194px;
